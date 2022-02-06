@@ -1,4 +1,10 @@
-### Hi there 👋
+### hiya, I'm noornee :D
+
+i learn to code in my free time and i use Arch Linux. 🤧
+- 🌱 I’m currently learning golang
+- 👯 I’m looking to collaborate on golang projects to broaden my experience
+- ⚡ Fun fact: I'm a weeb
+
 
 <!--
 **noornee/noornee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
