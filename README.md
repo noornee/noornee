@@ -1,9 +1,9 @@
 ### hiya, I'm noornee :D
 
-i learn to code in my free time and i use Arch Linux. 🤧
-- 🌱 I’m currently learning golang
-- 👯 I’m looking to collaborate on golang projects to broaden my experience
-- ⚡ Fun fact: I'm a weeb 😗
+i learn to code in my free time and i use Arch Linux. :) 
+- 🌱 I’m currently learning... a lot of things (._.')
+- 👯 I’m looking to collaborate on golang projects to get comfortable with it ^ ^
+- ⚡ Fun fact: I'm a weeb ;) 
 
 
 <!--
